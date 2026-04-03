@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"S1, S2, S3, S4, S5, S6",6," Pushbutton"
+"U1",1," Arduino Uno R3"
+"R1, R2, R3, R4",4,"220 Ω Resistor"
+"D1, D2, D3, D4",4,"Red LED"
+"M1, M2",2," DC Motor"
+"U2",1," H-bridge Motor Driver"
+"U3",1,"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
+"R5",1," Force Sensor"
+"P1",1,"24 , 1  Power Supply"
+"R6, R8",2,"10 kΩ Resistor"
+"R7",1," Photoresistor"
+"U4",1," 5V Regulator [LM7805]"
